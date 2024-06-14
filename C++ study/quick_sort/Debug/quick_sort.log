@@ -1,0 +1,3 @@
+﻿  quick_sort.cpp
+c:\dev\c++ study\quick_sort\quick_sort.cpp(57): warning C4715: “partition”: 不是所有的控件路径都返回值
+  quick_sort.vcxproj -> C:\dev\C++ study\Debug\quick_sort.exe
